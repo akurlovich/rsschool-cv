@@ -28,6 +28,7 @@ At my current job position, I face every day with different tasks from customers
 - Automation QA (Selenium IDE Recorder, setup environment, record actions and creation simple automation website tests)
 - Python (theory and algorithms by lectures MIPT, 60 hours)
 - Google DevTools, VS Code, Figma, MacOS
+- Webpack
 ***
 ####Sample code
 ```html
